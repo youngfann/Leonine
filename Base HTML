@@ -1,0 +1,22 @@
+
+<head>
+   <title> Leonine  </title> 
+<h1 class="Header"> Welcome To The LEONINE </h1>
+<link rel="stylesheet"  type="text/CSS"  href="Styles.css" />
+</head>
+<body>
+   <div>
+      <style>
+         body {
+            background-color: rgb(1, 3, 28);
+         }
+      </style> 
+      </div> 
+ <div class="content">
+   <p1 id="p1"> Dont Forget To SignUp! <br> </p1>
+   <p2 id="p2">  <br> this is "BAKI HANMA" a Full Fighter that started fighting
+       since the age of 14  </p2>
+    <br> <img id="baki"
+     src="https://s6.uupload.ir/files/baki_pmza.jpg" border="0" alt="آپلود عکس"/>
+     <p3 id="p3"> <br> he is a very strong character in the BAKI Anime Franchise</p3>
+ </div>
